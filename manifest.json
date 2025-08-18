@@ -1,0 +1,21 @@
+
+{
+  "name": "Shashi's Personal Website",
+  "short_name": "Shashi's Website",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "shashi.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "shashi.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
