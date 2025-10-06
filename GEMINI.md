@@ -15,7 +15,7 @@ The website is built using plain HTML, CSS, and JavaScript. It uses Font Awesome
 The website has the following sections:
 
 *   **Header:** Contains the profile picture, name, title, social media links, and a theme switcher.
-*   **About Me:** A brief introduction to Shashi Kiran M S.
+*   **About Me:** A brief introduction to Shashi Kiran M S, with a call to action to get in touch.
 *   **Experience:** A timeline of his work experience.
 *   **Skills:** A list of his technical skills.
 *   **Education:** His educational background.
